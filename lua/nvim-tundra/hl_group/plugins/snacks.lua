@@ -13,3 +13,5 @@ M.map = function(ss, opts)
 		SnacksPickerPreviewFooter = { fg = ss.bg.floating, bg = ss.bg.floating },
 	}
 end
+
+return M
